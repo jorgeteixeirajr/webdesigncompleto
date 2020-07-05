@@ -13,8 +13,8 @@
 
 - [Teoria do Design](#-teoria-do-design)
 - [Design do Projeto](#-design-do-projeto)
-- [Básico da codificação](#-basico-da-codificacao)
-- [Código do projeto](#-codigo-do-projeto)
+- [Básico da codificação](#-básico-da-codificação)
+- [Código do projeto](#-código-do-projeto)
 
 ---
 
@@ -57,7 +57,7 @@ O objetivo com esse treinamento é conhecer a fundo esta tecnologia tão utiliza
 
 ---
 
-## 💻 Básico de Codigifcação
+## 💻 Básico de Codificação
 
 - Introdução ao código
 - HTML Básico
