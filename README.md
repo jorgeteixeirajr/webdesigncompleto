@@ -13,8 +13,8 @@
 
 - [Teoria do Design](#-teoria-do-design)
 - [Design do Projeto](#-design-do-projeto)
-- [Básico da codificação](#-classes)
-- [Código do projeto](#-mais-javascript)
+- [Básico da codificação](#-basico-da-codificacao)
+- [Código do projeto](#-codigo-do-projeto)
 
 ---
 
