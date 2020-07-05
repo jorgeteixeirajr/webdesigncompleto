@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img src="https://ik.imagekit.io/wok5lamr2n/Opera_Instant_neo_2020-06-17_163803_www.origamid.com_S3rlnfR03.png">
+<img src="https://user-images.githubusercontent.com/53981704/86539043-17cce380-bed0-11ea-8dbe-01c9b496f5c1.png">
 
 </h1>
 <br>
@@ -11,28 +11,16 @@
 
 # Indice
 
-- [Sobre](#-sobre)
-- [JavaScript para Iniciantes](#-javaScript-para-iniciantes)
-- [DOM para Iniciantes](#-dom-para-iniciantes)
-- [Objetos](#-objetos)
-- [Efeitos no DOM](#-efeitos-no-dom)
-- [JavaScript Assíncrono](#-javascript-assíncrono)
-- [Classes](#-classes)
-- [Mais JavaScript](#-mais-javascript)
-- [Regular Expression](#-regular-expression)
-- [Automação Front End](#-automação-front-end)
-- [Refatorar Projeto Final](#-refatorar-projeto-final)
-- [Slide](#-slide)
+- [Teoria do Design](#-teoria-do-design)
+- [Design do Projeto](#-design-do-projeto)
+- [Básico da codificação](#-classes)
+- [Código do projeto](#-mais-javascript)
 
 ---
 
 # 🧾 Sobre
 
-**Você pode conferir a documentação completa aqui: [Curso JavaScript Completo ES6+](https://www.origamid.com/slide/javascript-completo-es6/#/0101-javascript-completo-es6/2)**
-
----
-
-Esse repositório tem por objetivo armazenar as informações obtidas no curso **JavaScript Completo ES6+** da [Origamid](https://www.origamid.com/slide/javascript-completo-es6/#/0101-javascript-completo-es6/11) 🐺.
+Esse repositório tem por objetivo armazenar as informações obtidas no curso **Web Design Completo** da [Origamid](https://www.origamid.com/curso/web-design-completo) 🐺.
 
 Irei armazenar todos os arquivos, eles serão organizados conforme os tópicos para facilitar a organização e o entendimento para futura consulta.
 
@@ -44,158 +32,46 @@ O objetivo com esse treinamento é conhecer a fundo esta tecnologia tão utiliza
 
 # 🔍 Pontos abordados no curso
 
-## 🍼 JavaScript para Iniciantes
+## ✨ Teoria do Design
 
-- Variáveis
-- Tipos de Dados
-- Números e Operadores
-- Boolean e Condicionais
-- Funções
-- Objetos
-- Arrays e Loops
-- Atribuição e Ternário
-- Escopo
-
----
-
-## 🍼 DOM para Iniciantes
-
-- O que é DOM
-- HTML e CSS do Projeto
-- Seleção de Elementos
-- forEach e Arrow
-- Classes e Atributos
-- Dimensões e Distâncias
-- Eventos
-- Transversing e Manipulação
-- Navegação por Tabs
-- Accordion List
-- Scroll Suave Link Interno
-- Animação ao Scroll
+- O que é Design
+- Forma e Espaço
+- Cores
+- Tipografia
+- Grid
+- Dicas
+- O que é UX Design
+- Usabilidade
+- O que é UI Dseign
+- Estilos de UI
 
 ---
 
-## 💻 Objetos
+## 🎨 Design do Projeto
 
-- Constructor Function
-- Prototype
-- Native, Host e User
-- String
-- Number e Math
-- Array
-- Array e Iteração
-- Function
-- Object
+- Primeiros passos
+- Arquitetura da Informação
+- Adobe XD
+- Wireframe
+- Design
 
 ---
 
-## 💻 Efeitos no DOM
+## 💻 Básico de Codigifcação
 
-- Dataset
-- Modules
-- Modal
-- Tooltip
-- Dropdown Menu
-- Event Bubble
-- Clickoutside
-- setTimeout e setInterval
-- Menu Mobile
-- Anima Números
-- Date Object
-- Forms
-- Button Creator HTML e CSS
-- Button Creator JavaScript
-- LocalStorage
+- Introdução ao código
+- HTML Básico
+- CSS Básico
 
 ---
 
-## 💻 JavaScript Assíncrono
+## 💻 Código do Projeto
 
-- JavaScript Assíncrono
-- Promisses
-- Fetch
-- JSON
-- API e HTTP
-- Async Await
-- History API
-- Animais Fetch
-- Bitcoin Fetch
-
----
-
-## 💻 Classes
-
-- Classes
-- Get e Set
-- Extends
-- Countdown
-
----
-
-## 💻 Mais JavaScript
-
-- Function Expression
-- Factory Function
-- Clojures e Debugging
-- Destructuring
-- Rest e Spread
-- Poops e Iterable
-
----
-
-## 💻 Regular Expression
-
-- Regexp Seleção
-- Regexp Padrões
-- Limpar CPF
-- Validar CPF
-
----
-
-## 💻 Automação Front End
-
-- Linha de Comando
-- NPM
-- ESLint
-- Webpack
-- Babel
-- Git
-
----
-
-## 💻 Refatorar Projeto Final
-
-- Repositório Git
-- Refatorar Scroll Suave
-- Refatorar Accordion
-- Refatorar Tabnav
-- Refatorar Modal
-- Refatorar Tooltip
-- Refatorar Anima Números
-- Refatorar Fetch Animais
-- Refatorar Fetch Bitcoin
-- Refatorar Animação Scroll
-- Debounce
-- Refatorar Dropdown Menu
-- Refatorar Menu Mobile
-- Refatorar Funcionamento
-
----
-
-## 💻 Slide
-
-- Slide Início
-- Slide Eventos
-- Slide Atualizar Distâncias
-- Slide Touch Events
-- Slide Config
-- Slide Next e Prev
-- Slide Resize
-- Slide Nav
-- Slide Paginação
-- Slide Custom Controls
-- Slide Animais Fantásticos
-- Melhorias no Projeto Final
+- HTML e CSS
+- Responsivo
+- JavaScript Animações
+- Ajustes Finais
+- Dominio, Hospedagem e Analytics
 
 ---
 
