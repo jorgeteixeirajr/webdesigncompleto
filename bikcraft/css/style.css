@@ -340,7 +340,7 @@ img {
 }
 
 /* Sobre */
-.introducao-interna {
+.introducao_sobre {
   width: 100%;
   background: #000 url(../assets/bg-sobre.jpg) no-repeat center;
   background-size: cover;
@@ -408,7 +408,7 @@ img {
 }
 
 /* Produtos */
-.introducao-interna {
+.introducao-produto {
   width: 100%;
   background: #000 url(../assets/bg-produtos.jpg) no-repeat center;
   background-size: cover;
