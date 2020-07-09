@@ -1,0 +1,147 @@
+/* Produtos */
+.introducao-produto {
+  width: 100%;
+  background: #000 url(../assets/bg-produtos.jpg) no-repeat center;
+  background-size: cover;
+  margin-top: 92px;
+  height: 160px;
+  color: #fff;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.produto_item {
+  padding-top: 60px;
+}
+
+.produto_item h2 {
+  color: #fff;
+  font-size: 36px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: bold;
+  position: relative;
+  top: -180px;
+  text-align: center;
+  margin-bottom: -56px;
+}
+
+.produto_item h2::before,
+.produto_item h2::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #fff;
+  margin: 6px auto 8px auto;
+}
+
+.produto_icone {
+  background: #000;
+  padding: 70px 0;
+}
+
+.produto_icone img {
+  margin: 0 auto;
+}
+
+/* Orçamento */
+.orcamento {
+  background: #000;
+  padding: 40px 0;
+  color: #fff;
+}
+
+.orcamento .subtitulo {
+  color: #fec63e;
+}
+
+.orcamento h2::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  margin: 8px auto;
+  background: #fec63e;
+}
+
+.form {
+  padding-right: 60px;
+}
+
+.form label {
+  display: block;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 4px;
+}
+
+.form input {
+  width: 100%;
+  display: block;
+  border: 4px solid #fec63e;
+  background: none;
+  color: #fff;
+  padding: 7px 10px;
+  margin-bottom: 10px;
+  outline: none;
+  font-size: 14px;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.form textarea {
+  display: block;
+  width: 100%;
+  height: 120px;
+  border: 4px solid #fec63e;
+  background: none;
+  color: #fff;
+  padding: 7px 10px;
+  margin-bottom: 20px;
+  outline: none;
+  font-size: 14px;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.form button {
+  background: none;
+  padding: 7px 40px;
+  cursor: pointer;
+}
+
+.orcamento_dados h3 {
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fec63e;
+}
+
+.orcamento_dados span {
+  display: block;
+  font-size: 18px;
+  line-height: 30px;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.orcamento_dados span:nth-of-type(2) {
+  margin-bottom: 40px;
+}
+
+.orcamento_dados p {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 14px;
+  line-height: 20px;
+  margin: 8px 0;
+}
+
+.orcamento_dados ul {
+  padding-right: 60px;
+}
+
+.orcamento_dados ul li {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 14px;
+  padding: 10px 15px;
+}
