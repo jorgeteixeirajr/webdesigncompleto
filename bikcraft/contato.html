@@ -46,15 +46,15 @@
 
     <section class="contato container" data-anime="1200">
       <h2 class="subtitulo">Orçamento</h2>
-      <form action="" class="contato_form grid-8">
+      <form action="enviar.php" method="POST" class="contato_form grid-8 formphp">
         <label for="nome">Nome</label>
-        <input type="text" id="nome" name="nome">
+        <input type="text" id="nome" name="nome" required="required">
         <label for="email">Email</label>
-        <input type="text" name="email" id="email">
+        <input type="email" name="email" id="email" required="required">
         <label for="telefone">Telefone</label>
         <input type="text" id="telefone" name="telefone">
-        <label for="mensagem">Especificações</label>
-        <textarea name="" id="mensagem" cols="30" rows="10"></textarea>
+        <label for="mensagem">Mensagem</label>
+        <textarea name="mensagem" id="mensagem" cols="30" rows="10" required="required"></textarea>
         <button id="enviar" name="enviar" type="submit" class="btn btn-preto">Enviar</button>
       </form>
       <div class="contato_dados grid-8">
@@ -138,6 +138,7 @@
       </div>
     </footer>
     <script src="js/simple-anime.js"></script>
+    <script src="js/simple-form.js"></script>
     <script src="js/script.js"></script>
   </body>
 </html>

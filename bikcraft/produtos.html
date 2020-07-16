@@ -93,15 +93,15 @@
     <section class="orcamento">
       <div class="container">
         <h2 class="subtitulo">Orçamento</h2>
-        <form action="" class="form grid-8">
+        <form action="enviar.php" method="POST" class=" form grid-8 formphp">
           <label for="nome">Nome</label>
-          <input type="text" id="nome" name="nome">
+          <input type="text" id="nome" name="nome" required="required">
           <label for="email">Email</label>
-          <input type="text" name="email" id="email">
+          <input type="email" name="email" id="email" required="required">
           <label for="telefone">Telefone</label>
           <input type="text" id="telefone" name="telefone">
-          <label for="mensagem">Especificações</label>
-          <textarea name="" id="mensagem" cols="30" rows="10"></textarea>
+          <label for="mensagem">Mensagem</label>
+          <textarea name="mensagem" id="mensagem" cols="30" rows="10" required="required"></textarea>
           <button id="enviar" name="enviar" type="submit" class="btn">Enviar</button>
         </form>
         <div class="orcamento_dados grid-8">
